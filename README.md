@@ -8,15 +8,14 @@ Deterministic adversarial dialogue loop with reducer-authoritative canonization.
 - Reducer: dolphin-llama3:latest
 
 ## Run
-`powershell
-cd C:\Users\sslaw\RRR_DUAL_CYCLE
-.\run.ps1
-`",
-",
 
-- data\runtime\reducer_last_full.txt
-- data\runtime\canonical_state.txt
-- data\runtime\prompt_current.txt
+    cd C:\Users\sslaw\RRR_DUAL_CYCLE
+    .\run.ps1
+
+## Outputs
+- data\\runtime\\reducer_last_full.txt
+- data\\runtime\\canonical_state.txt
+- data\\runtime\\prompt_current.txt
 
 ## License
 Dual license:
