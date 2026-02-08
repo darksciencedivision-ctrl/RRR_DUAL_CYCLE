@@ -10,8 +10,7 @@ Deterministic adversarial dialogue loop with reducer-authoritative canonization.
 ## Run
 `powershell
 cd C:\Users\sslaw\RRR_DUAL_CYCLE
-.\reset.ps1
-.\broker.ps1
+.\run.ps1
 `",
 ",
 
