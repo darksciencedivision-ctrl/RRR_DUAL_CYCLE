@@ -1,0 +1,15 @@
+﻿# Runtime outputs
+data/runtime/*.txt
+data/runtime/*.json
+
+# Logs + debug artifacts
+logs/*.txt
+logs/*.json
+logs/*payload_last*.json
+logs/*raw_last*.json
+logs/*url_last*.txt
+
+# OS/editor junk
+Thumbs.db
+.DS_Store
+.vscode/
