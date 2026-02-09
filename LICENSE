@@ -1,83 +1,31 @@
-﻿﻿Ollama Dialog Broker — Non-Commercial Li
-cense (Educational/Research)
+﻿TEXT LICENSE (Thesis Content)
 
-Copyright (c) 2
-026 Samuel Lawson
-Contact: Darksciencedivisio
-n@gmail.com
+Copyright © 2026 Samuel Lawson
 
-Permission is hereby granted, fr
-ee of charge, to any person obtaining a copy
+This written work, including the thesis titled:
+"Emergent AI-Human Cooperation Through Adversarial Optimization: Testing Alignment Without Imposed Constraints"
+is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-of this software and associated documentation
- files (the “Software”), to use,
-copy, mo
-dify, and distribute the Software for NON-COM
-MERCIAL purposes only,
-including educational 
-use, academic research, personal tinkering, a
-nd
-non-monetized demonstrations.
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose
 
-Commercial 
-Use Prohibited
-------------------------
-Comme
-rcial use is not permitted under this license
-.
+Under the following terms:
+- Attribution — You must give appropriate credit to the author.
 
-“Commercial use” includes, but is not 
-limited to:
-- Selling the Software or any der
-ivative work
-- Using the Software as part of 
-a paid product or paid service
-- Using the So
-ftware to provide paid consulting, hosting, o
-r managed services
-- Using the Software inter
-nally in an organization for revenue-generati
-ng activity,
-  where the Software is material
- to that activity
+Full license text:
+https://creativecommons.org/licenses/by/4.0/
 
-Commercial Licensing
------
---------------
-If you want to use the Softwar
-e commercially, you must obtain a paid
-Commer
-cial License from the copyright holder.
-See: 
-COMMERCIAL-LICENSE.md
 
-No Trademark Rights
---
------------------
-This license does not grant
- permission to use the name “Ollama Dialog 
-Broker”
-or “darksciencedivision-ctrl” a
-s a trademark or to imply endorsement.
+--------------------------------------------------
 
-Discl
-aimer
-----------
-THE SOFTWARE IS PROVIDED “
-AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRE
-SS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO T
-HE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR
- A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
- NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLD
-ERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+CODE LICENSE (Software Components)
 
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
- TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR I
-N CONNECTION WITH THE SOFTWARE OR THE USE OR 
-OTHER DEALINGS IN
-THE SOFTWARE.
+All source code contained in this repository is licensed under the MIT License,
+unless otherwise explicitly stated in individual files.
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
